@@ -9,5 +9,5 @@ We present FibDB, the first ever relational database specifically designed for
 the generation and storage of numbers in the Fibonacci sequence.
 
 ## Credits
-[Jake VanderPlas' talk at
+[Jake Vanderplas' talk at
 SciPy2017](https://speakerd.s3.amazonaws.com/presentations/b0194397ecce48df82243cced5549f6e/SciPy_2017_Image_Analysis__1_.pdf).
